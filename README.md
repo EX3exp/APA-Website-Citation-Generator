@@ -11,7 +11,7 @@ URL을 입력하면 APA식 출처를 가볍게 작성해 줍니다.<br>
 ## 📖 Download 📖
 ![(https://github.com/EX3exp/APA-Website-Citation-Generator/assets/100339835/0750c057-f12e-41f1-84f6-ec3759dd19ac)](https://github.com/EX3exp/APA-Website-Citation-Generator/assets/100339835/0750c057-f12e-41f1-84f6-ec3759dd19ac)
  ⬅️ 아이콘을 누르면 바로 다운로드 페이지로 이동합니다.<br>
-<br>Release에서 다운로드받으셔도 됩니다.
+<br>Releases에서 다운로드받으셔도 됩니다.
 
 ## 📖 Reference 📖
 [GTRONICK/QSS](https://github.com/GTRONICK/QSS)
