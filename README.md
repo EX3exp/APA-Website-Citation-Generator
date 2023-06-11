@@ -10,7 +10,7 @@ URL을 입력하면 APA식 출처를 가볍게 작성해 줍니다.<br>
 <br>⚠️주의! 접속일자는 생성기를 실행한 날짜 기준으로 작성됩니다.
 ## 📖 Download 📖
 ![icon_](https://github.com/EX3exp/APA-Website-Citation-Generator/assets/100339835/6ddd41dc-b01a-4466-b77d-9bf4ddbff56b)
- ⬅️ [Releases](https://github.com/EX3exp/APA-Website-Citation-Generator/releases)에서 다운로드해 주세요.<br>
+ ⬅️ [Releases](https://github.com/EX3exp/APA-Website-Citation-Generator/releases/latest)에서 다운로드해 주세요.<br>
 
 ## 📖 Reference 📖
 [GTRONICK/QSS](https://github.com/GTRONICK/QSS)
